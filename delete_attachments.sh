@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 # Script to delete all the attachment on a single device.
+# Created by macstuff.dev - Melwin Moeskops 
 #
 # Will delete from 1 till 450 with a sleep to keep the server from being overloaded.
 
